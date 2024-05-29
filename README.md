@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-coming-soon-page-Z0eZjPSoIg)
-- Live Site URL: [Add live site URL here](https://mooogz.github.io/base-apparel-coming-soon-master/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-coming-soon-page-Z0eZjPSoIg)
+- Live Site URL: [Github Pages](https://mooogz.github.io/base-apparel-coming-soon-master/)
 
 
 ### Built with
@@ -45,5 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mooogz)
-- Twitter - [@yourusername](https://www.twitter.com/Megzdev)
+- Frontend Mentor - [@mooogz](https://www.frontendmentor.io/profile/mooogz)
+- Twitter - [@MegzDev](https://www.twitter.com/Megzdev)
